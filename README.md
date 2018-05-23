@@ -1,29 +1,22 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This is about FLIP05.
+This teamname is Learning Theory(II)
 
-### What is this repository for? ###
+### The FLIP05 group contains: ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* 1.Real Analysis
+* 2.Functional Analysis
+* 3.Stochastic Process
+* 4.Gaussian Process
+* 5.Difference privacy
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### The files is syllabus and notebook ###
 
-### Contribution guidelines ###
+* Syllabus contains three parts:introduction,theory and practicals
+* Notebook is mainly about exercises
 
-* Writing tests
-* Code review
-* Other guidelines
+### Notebook ###
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* updating the Gaussian Process.
